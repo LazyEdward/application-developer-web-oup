@@ -1,0 +1,32 @@
+:root {
+  --color-highlight: rgb(254, 42, 157);
+  --color-basic: rgb(33, 37, 41);
+}
+
+body {
+  background-color: rgba(229, 231, 235);
+}
+
+div {
+  padding: 0.5rem;
+}
+
+.reference {
+  background-color: white;
+  text-align: center;
+}
+
+.content span {
+  background-image: -webkit-linear-gradient(
+    left,
+    var(--color-highlight) 0%,
+    var(--color-basic) 0%
+  );
+  display: inline;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(0, 0, 0, 0);
+}
+
+.selectable-text {
+  cursor: pointer;
+}

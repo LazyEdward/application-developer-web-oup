@@ -1,0 +1,40 @@
+{
+  "words": [
+    {
+      "id": "item-4de0e6f2-8551-46d9-9ee8-56b69244f48b",
+      "start": 1.413,
+      "end": 3.156,
+      "forceAlignment": "守株待兔"
+    },
+    {
+      "id": "item-216be827-12a4-413e-b424-2b964adb16c6",
+      "start": 3.567,
+      "end": 5.043,
+      "forceAlignment": "韓非子"
+    },
+    {
+      "id": "item-08659c28-89c1-4436-a2d2-0c93a0ec44c6",
+      "start": 6.399,
+      "end": 13.185,
+      "forceAlignment": "宋人有耕者田中有株兔走觸株"
+    },
+    {
+      "id": "item-dc328972-9514-48b2-a0da-08dbf258cebb",
+      "start": 13.596,
+      "end": 19.265,
+      "forceAlignment": "折頸而死因釋其耒而守株"
+    },
+    {
+      "id": "item-ccbac3a7-1fdb-471b-8f09-e6c0e5a6716c",
+      "start": 20.329,
+      "end": 24.294,
+      "forceAlignment": "冀復得兔兔不可復得"
+    },
+    {
+      "id": "item-c92cedd0-5453-4e51-ab36-933c646929e3",
+      "start": 24.94,
+      "end": 27.384,
+      "forceAlignment": "而身為宋國笑"
+    }
+  ]
+}
